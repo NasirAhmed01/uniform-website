@@ -533,11 +533,12 @@ background-color: #ffffff;
     
       .side-panel{
         width: 25vw;
-        height: 100vh;
+        height: 90vh;
         background: #fff;
         position: sticky;
         top: 10vmin;
         padding-top: 3vh;
+overflow: auto;
     
       }
     
